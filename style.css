@@ -42,3 +42,44 @@ section{
     border-radius: 5px;
     margin-top: 410px;
 }
+.expi-area{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+.expi-box{
+    
+}
+.expi-content{
+    margin: 40px;
+    box-shadow: 10px 10px 5px gray;
+    padding: 50px;
+    width: 40%;
+    border-radius: 10px;
+}
+.expi-area h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.expi-content h2{
+    font-size: 40px;  
+    font-weight: bold;
+}
+.expi-content h3{
+    color: orange;
+}
+.expi-left{
+    border-left: 5Px solid;
+    border-image: linear-gradient(#CB356B,#BD3F32);
+    border-image-slice: 1;
+}
+.expi-right{
+    border-left: 5Px solid;
+    border-image: linear-gradient(#38386d,#5032bd);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+     
+}
